@@ -24,7 +24,7 @@ p{
     width: 500px;
     height: 10px;
     border: black solid 1px;
-    background-image: url(red.png);
+    background-image: url(assets/red.png);
     background-repeat: repeat-y;
     background-size: 0% auto;
     float: left;

@@ -1,5 +1,5 @@
 
-var text = "Hello my name is alex and I like cake and otter skin.";
+var text = "It was November. Although it was not yet late, the sky was dark when I turned into Laundress Passage.";
 var textArray;
 var word;
 var input;
